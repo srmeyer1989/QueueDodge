@@ -1,0 +1,10 @@
+﻿[
+  {
+    "outputFile": "app/styles/style.css",
+    "inputFile": "app/styles/style.scss"
+  },
+  {
+    "outputFile": "app/styles/rzslider.css",
+    "inputFile": "app/styles/rzslider.scss"
+  }
+]
