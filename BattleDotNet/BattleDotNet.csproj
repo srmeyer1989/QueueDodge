@@ -74,6 +74,13 @@
     <Compile Include="Mounts\Mount.cs" />
     <Compile Include="Mounts\MountEndpoint.cs" />
     <Compile Include="Mounts\Mounts.cs" />
+    <Compile Include="Pet\MasterList\Ability.cs" />
+    <Compile Include="Pet\MasterList\AbilityEndpoint.cs" />
+    <Compile Include="Pet\Species\Pet.cs" />
+    <Compile Include="Pet\Species\PetEndpoint.cs" />
+    <Compile Include="Pet\Species\Pets.cs" />
+    <Compile Include="Pet\Stats\Stats.cs" />
+    <Compile Include="Pet\Stats\StatsEndpoint.cs" />
     <Compile Include="PVP\ConquestEndpoint.cs" />
     <Compile Include="PVP\LeaderboardEndpoint.cs" />
     <Compile Include="RealmStatus\RealmEndpoint.cs" />
