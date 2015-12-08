@@ -93,6 +93,8 @@
     <Compile Include="Region.cs" />
     <Compile Include="Services\BattleNetJsonService.cs" />
     <Compile Include="Services\BattleNetService.cs" />
+    <Compile Include="Spell\Spell.cs" />
+    <Compile Include="Spell\SpellEndpoint.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
