@@ -61,6 +61,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Auction\Files.cs" />
+    <Compile Include="Auction\AuctionEndpoint.cs" />
+    <Compile Include="Auction\File.cs" />
     <Compile Include="EndpointParameter.cs" />
     <Compile Include="EndpointParameterType.cs" />
     <Compile Include="CharacterProfile\CharacterProfileEndpoint.cs" />
@@ -68,6 +71,9 @@
     <Compile Include="DataResources\RaceEndpoint.cs" />
     <Compile Include="IEndpoint.cs" />
     <Compile Include="IEndpointParameter.cs" />
+    <Compile Include="Mounts\Mount.cs" />
+    <Compile Include="Mounts\MountEndpoint.cs" />
+    <Compile Include="Mounts\Mounts.cs" />
     <Compile Include="PVP\ConquestEndpoint.cs" />
     <Compile Include="PVP\LeaderboardEndpoint.cs" />
     <Compile Include="RealmStatus\RealmEndpoint.cs" />
