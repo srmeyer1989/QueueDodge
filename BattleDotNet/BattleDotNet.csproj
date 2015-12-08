@@ -90,6 +90,8 @@
     <Compile Include="RealmStatus\TolBarad.cs" />
     <Compile Include="RealmStatus\Wintergrasp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Recipe\Recipe.cs" />
+    <Compile Include="Recipe\RecipeEndpoint.cs" />
     <Compile Include="Region.cs" />
     <Compile Include="Services\BattleNetJsonService.cs" />
     <Compile Include="Services\BattleNetService.cs" />
