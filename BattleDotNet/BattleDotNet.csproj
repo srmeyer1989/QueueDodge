@@ -61,6 +61,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Achievement\Achievement.cs" />
+    <Compile Include="Achievement\AchievementEndpoint.cs" />
+    <Compile Include="Achievement\ToolTipParams.cs" />
+    <Compile Include="Achievement\Criterion.cs" />
+    <Compile Include="Achievement\RewardItem.cs" />
     <Compile Include="Auction\Files.cs" />
     <Compile Include="Auction\AuctionEndpoint.cs" />
     <Compile Include="Auction\File.cs" />
